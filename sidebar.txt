@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ute:home|Door43 (ute)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ute|d43-ute repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ute/archive/master.zip|d43-ute.zip]]
+
+**Recent Changes**
+{{changes>ns = ute}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ute|Ethnologue data]]
+
